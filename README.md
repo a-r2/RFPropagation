@@ -2,6 +2,8 @@
 
 The Modelica library RFPropagation includes several of the best-known propagation models used to compute path losses between a radiowave source (radio transmitter) and a radiowave sink (radio receiver) under different scenarios. They address different attributes of the propagation channel: outdoor and indoor, LOS (Line-Of-Sight) and non-LOS, clear path and obstructed path, tropospheric and ionospheric. In addition, the library contains models of physical components such as generic antennas and cables that enables the calculation of link budgets.
 
+![alt text](https://github.com/a-r2/RFPropagation/blob/main/Example.png?raw=true)
+
 ## 1. Propagation models:
 
 - Free-space path loss
